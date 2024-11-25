@@ -14,9 +14,10 @@ A robust tool for assessing and enhancing password strength with features like r
 3. Get detailed metrics on password strength and adjust accordingly.
 
 ## Screenshots
-### Real-time password strength feedback
-Password strength metrics:
-
-![Encryption Example](strong.png)
-
-![Decryption Example](Decrypt.png)
+### Real-time password strength feedback:
+<div style="display: flex; justify-content: space-between;">
+    <img src="Strong.png" alt="Strong" width="200" />
+   <img src="if_not_strong.png" alt="if_not_strong" width="200" />
+    <img src="Check_01.png" alt="check_01 Example" width="200" />
+ <img src="password_check_complex.png" alt="pwd check Example" width="200" />
+</div>
